@@ -1,8 +1,6 @@
 # final-project
 Final project for CIS 1051 Fall 2022
-Maryam Amr, Sadia Rahat, Tameema Mamun
 ------
-Video: https://www.youtube.com/watch?v=lFkpjgrca-E&ab_channel=MaryamAmr
 
 Thia was the first time any of us have ever coded in C# before, or used Unity in general. It was really difficult trying to code in a new language while also learning how to make a game. We learned a lot about the syntax of C# and found that many of the concepts we learned in Python translated to other languages as well. At first it was very difficult adapting to a syntax that didn't read as English as much as Python's syntax does. We also learned a lot about Unity itself. We learned how to create and add animations in our game, how to write code so that an animation only starts when something triggers it, and more. We really enjoyed making some pixel art. Mario was especially fun to draw. We had a lot of fun with drawing the main menu. We learned that we could write a function inside a script, then apply that speciifc function to any object we wanted to. 
 
