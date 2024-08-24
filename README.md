@@ -1,5 +1,4 @@
-# final-project
-Medical Mario
+# Medical-Mario | 2D Unity Platformer
 ------
 
 Medical Mario is a 2D platformer game I developed in Unity using the C# language. Additionally, I also hand drew most of the art and visuals.
